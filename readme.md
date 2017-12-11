@@ -14,8 +14,11 @@ class PageController {
 }
 ~~~
 
+Here `$request` is instantiation of `Request` class. Which injected 
+
 # facade  
 
+Simple interface for complex code. Like in routing we are using `Route` facade. 
 
 ## One to many relationship
 
